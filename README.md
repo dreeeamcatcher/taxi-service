@@ -27,9 +27,11 @@ App follows a three-tier architecture by separating presentation, application, a
 ## :gear:Technologies:
 + JDK 11
 + Maven 3.8.6
++ JDBC
 + MySQL 8.0.22
 + Tomcat 9.0.50
 + Servlet 4.0.1
++ JSP
 + JSTL 1.2
 
 ## :arrow_forward:Hot to use:
